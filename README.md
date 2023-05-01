@@ -1,5 +1,5 @@
-<div align="center" width="50">
 
+<div align="center" width="50">
 
 ## about and social media
 
@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshii-Dev&theme=solarized-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yoshii-Dev&label=Pengunjung%20Harian&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Yoshii-Dev&label=Pengunjung%20Harian&pretty=true)](https://visitcount.itsvg.in)                        
 
 
 
